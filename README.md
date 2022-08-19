@@ -1,21 +1,19 @@
-### Quick highlighs
-- Extensive experience in Golang and PHP
-- 8+ years of professional experience in the software industry
-- Experience in developing distributed system using microservice architecture and message passing.
-- Developed applications by following SOLID principles, clean architecture.
-- Experience in developing applications utilizing TDD (Test Driven Development), Unit and Integration testing 
-- Worked in Agile Scrum process in software development
-- Opensource enthusiast and love write elegant code
+## Trojan 𓂀
+
+### Who?
+- The maker of thing 
+- outlandish or nothing
+- Before nothing, there was me
 
 ### Technology Stacks
-- Language: Golang, PHP
-- Messaging: RabbitMQ, NATS
+- Language: Golang, PHP, C++
+- Messaging: Redis
 - DBMS: MySQL, PostgreSQL, MongoDB
-- Infrastructure: Docker, Consul, Kubernetes, CI/CD
+- Infrastructure: Docker
 
 <a href="https://github.com/thedevsaddam">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thedevsaddam&theme=nord&show_icons=true&count_private=true&hide=contribs&line_height=40" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ichtrojan&theme=nord&show_icons=true&count_private=true&hide=contribs&line_height=40" />
 </a>
 <a href="https://github.com/thedevsaddam">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedevsaddam&theme=nord&langs_count=4&hide=javascript,html,css,erlang" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ichtrojan&theme=nord&langs_count=4&hide=javascript,html,css,erlang" />
 </a>
