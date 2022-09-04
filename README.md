@@ -1,7 +1,7 @@
 ## Trojan 𓂀
 
 ### Who?
-- The maker of thing 
+- The maker of things 
 - outlandish or nothing
 - Before nothing, there was me
 
